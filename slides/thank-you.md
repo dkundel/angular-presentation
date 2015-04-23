@@ -2,4 +2,4 @@
 
 Link to slides:
 
-[dkundel.github.io/angular-presentation](https://dkundel.github.io/angular-presentation)
+[dkundel.github.io/angular-presentation](https://dkundel.github.io/angular-presentation/)

@@ -25,9 +25,11 @@
         "services-definition.md",
         "services-usage.md"
     ],
-    "directives.md",
-    "directives-definition.md",
-    "directives-usage.md",
+    [
+        "directives.md",
+        "directives-definition.md",
+        "directives-usage.md"
+    ],
     "questions.md",
     "thank-you.md"
 ]
