@@ -1,0 +1,7 @@
+{
+  "name": "single-page-webapps-with-angularjs",
+  "version": "0.0.0",
+  "dependencies": {
+    "reveal.js": "~2.6.1"
+  }
+}
